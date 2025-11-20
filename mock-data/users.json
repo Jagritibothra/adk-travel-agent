@@ -1,0 +1,41 @@
+[
+  {
+    "userId": "U001",
+    "name": "Ananya Sharma",
+    "email": "ananya.sharma@example.com",
+    "city": "Bangalore",
+    "preferences": {
+      "preferredClass": "Economy",
+      "hotelBudgetPerNight": 4500,
+      "minHotelRating": 4.0,
+      "attractionCategory": "Experience",
+      "preferEarlyFlights": true
+    }
+  },
+  {
+    "userId": "U002",
+    "name": "Rohan Gupta",
+    "email": "rohan.gupta@example.com",
+    "city": "Delhi",
+    "preferences": {
+      "preferredClass": "Business",
+      "hotelBudgetPerNight": 9000,
+      "minHotelRating": 4.5,
+      "attractionCategory": "Heritage",
+      "preferEarlyFlights": false
+    }
+  },
+  {
+    "userId": "U003",
+    "name": "Sneha Patel",
+    "email": "sneha.patel@example.com",
+    "city": "Mumbai",
+    "preferences": {
+      "preferredClass": "Economy",
+      "hotelBudgetPerNight": 6000,
+      "minHotelRating": 3.8,
+      "attractionCategory": "Adventure",
+      "preferEarlyFlights": true
+    }
+  }
+]

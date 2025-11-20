@@ -1,0 +1,402 @@
+[
+  {
+    "attractionId": "A001",
+    "name": "Lalbagh Botanical Garden",
+    "city": "Bangalore",
+    "category": "Garden",
+    "timeRequiredHours": 2,
+    "ticketPrice": 0,
+    "bestTimeToVisit": "Morning",
+    "description": "Historic botanical garden with glasshouse, walking paths and seasonal flower shows."
+  },
+  {
+    "attractionId": "A002",
+    "name": "Bangalore Palace",
+    "city": "Bangalore",
+    "category": "Historic",
+    "timeRequiredHours": 1.5,
+    "ticketPrice": 5,
+    "bestTimeToVisit": "Afternoon",
+    "description": "19th-century palace inspired by Windsor Castle, with ornate rooms and gardens."
+  },
+  {
+    "attractionId": "A003",
+    "name": "Cubbon Park",
+    "city": "Bangalore",
+    "category": "Park",
+    "timeRequiredHours": 1.5,
+    "ticketPrice": 0,
+    "bestTimeToVisit": "Morning",
+    "description": "Large green lung in the city center — ideal for walks, jogging and quiet time."
+  },
+  {
+    "attractionId": "A004",
+    "name": "Rock Garden",
+    "city": "Chandigarh",
+    "category": "Park",
+    "timeRequiredHours": 1,
+    "ticketPrice": 0,
+    "bestTimeToVisit": "Morning",
+    "description": "Unique garden built with recycled materials and sculptures — popular with families."
+  },
+  {
+    "attractionId": "A005",
+    "name": "Sukhna Lake",
+    "city": "Chandigarh",
+    "category": "Lake",
+    "timeRequiredHours": 1.5,
+    "ticketPrice": 0,
+    "bestTimeToVisit": "Evening",
+    "description": "Serene reservoir with boating, promenades and sunrise/sunset views."
+  },
+  {
+    "attractionId": "A006",
+    "name": "Rockfort Temple",
+    "city": "Chennai",
+    "category": "Historic",
+    "timeRequiredHours": 1.5,
+    "ticketPrice": 0,
+    "bestTimeToVisit": "Morning",
+    "description": "Ancient rock-cut temple complex perched on a hill with city views."
+  },
+  {
+    "attractionId": "A007",
+    "name": "Marina Beach",
+    "city": "Chennai",
+    "category": "Beach",
+    "timeRequiredHours": 2,
+    "ticketPrice": 0,
+    "bestTimeToVisit": "Evening",
+    "description": "Long urban beach ideal for evening strolls, street food and local activities."
+  },
+  {
+    "attractionId": "A008",
+    "name": "Baga Beach",
+    "city": "Goa",
+    "category": "Beach",
+    "timeRequiredHours": 3,
+    "ticketPrice": 0,
+    "bestTimeToVisit": "Morning",
+    "description": "Popular beach known for water sports, shacks and nightlife."
+  },
+  {
+    "attractionId": "A009",
+    "name": "Fort Aguada",
+    "city": "Goa",
+    "category": "Historic",
+    "timeRequiredHours": 1.5,
+    "ticketPrice": 0,
+    "bestTimeToVisit": "Morning",
+    "description": "17th-century Portuguese fort with lighthouse and scenic sea views."
+  },
+  {
+    "attractionId": "A010",
+    "name": "Dudhsagar Falls",
+    "city": "Goa",
+    "category": "Nature",
+    "timeRequiredHours": 4,
+    "ticketPrice": 0,
+    "bestTimeToVisit": "Monsoon",
+    "description": "Spectacular four-tiered waterfall on the Goa-Karnataka border; trek or jeep safaris available."
+  },
+  {
+    "attractionId": "A011",
+    "name": "Charminar",
+    "city": "Hyderabad",
+    "category": "Historic",
+    "timeRequiredHours": 1.5,
+    "ticketPrice": 2,
+    "bestTimeToVisit": "Afternoon",
+    "description": "Iconic 16th-century monument and lively surrounding bazaars famous for pearls and street food."
+  },
+  {
+    "attractionId": "A012",
+    "name": "Golconda Fort",
+    "city": "Hyderabad",
+    "category": "Historic",
+    "timeRequiredHours": 2.5,
+    "ticketPrice": 3,
+    "bestTimeToVisit": "Morning",
+    "description": "Massive fortified citadel with acoustic wonders and panoramic city views."
+  },
+  {
+    "attractionId": "A013",
+    "name": "Hawa Mahal",
+    "city": "Jaipur",
+    "category": "Historic",
+    "timeRequiredHours": 1,
+    "ticketPrice": 1,
+    "bestTimeToVisit": "Morning",
+    "description": "Palace of winds with intricate pink sandstone façade and latticework windows."
+  },
+  {
+    "attractionId": "A014",
+    "name": "Amber Fort",
+    "city": "Jaipur",
+    "category": "Historic",
+    "timeRequiredHours": 2.5,
+    "ticketPrice": 5,
+    "bestTimeToVisit": "Morning",
+    "description": "Hilltop fort-palace complex with courtyards, mirrors and light shows in the evening."
+  },
+  {
+    "attractionId": "A015",
+    "name": "Marine Drive",
+    "city": "Kochi",
+    "category": "Promenade",
+    "timeRequiredHours": 1,
+    "ticketPrice": 0,
+    "bestTimeToVisit": "Evening",
+    "description": "Scenic waterfront promenade ideal for relaxing walks and sunset views."
+  },
+  {
+    "attractionId": "A016",
+    "name": "Jew Town & Spice Market",
+    "city": "Kochi",
+    "category": "Market",
+    "timeRequiredHours": 1.5,
+    "ticketPrice": 0,
+    "bestTimeToVisit": "Morning",
+    "description": "Historic lanes with antique shops, spice vendors and the Paradesi Synagogue nearby."
+  },
+  {
+    "attractionId": "A017",
+    "name": "Gateway of India",
+    "city": "Mumbai",
+    "category": "Historic",
+    "timeRequiredHours": 1,
+    "ticketPrice": 0,
+    "bestTimeToVisit": "Morning",
+    "description": "Iconic arch overlooking the Arabian Sea — gateway to Mumbai's waterfront."
+  },
+  {
+    "attractionId": "A018",
+    "name": "Marine Drive Promenade",
+    "city": "Mumbai",
+    "category": "Promenade",
+    "timeRequiredHours": 1,
+    "ticketPrice": 0,
+    "bestTimeToVisit": "Evening",
+    "description": "Famous seaside boulevard known for its 'Queen's Necklace' lights at night."
+  },
+  {
+    "attractionId": "A019",
+    "name": "Elephanta Caves",
+    "city": "Mumbai",
+    "category": "Historic",
+    "timeRequiredHours": 3,
+    "ticketPrice": 6,
+    "bestTimeToVisit": "Morning",
+    "description": "Rock-cut caves on Elephanta Island featuring impressive sculptures of Hindu deities."
+  },
+  {
+    "attractionId": "A020",
+    "name": "Shaniwar Wada",
+    "city": "Pune",
+    "category": "Historic",
+    "timeRequiredHours": 1.5,
+    "ticketPrice": 0,
+    "bestTimeToVisit": "Afternoon",
+    "description": "18th-century fortification with a historic palace complex and gardens."
+  },
+  {
+    "attractionId": "A021",
+    "name": "Aga Khan Palace",
+    "city": "Pune",
+    "category": "Historic",
+    "timeRequiredHours": 1.5,
+    "ticketPrice": 1,
+    "bestTimeToVisit": "Morning",
+    "description": "Monument of national importance associated with India's freedom movement."
+  },
+  {
+    "attractionId": "A022",
+    "name": "Padmanabhaswamy Temple",
+    "city": "Trivandrum",
+    "category": "Religious",
+    "timeRequiredHours": 1,
+    "ticketPrice": 0,
+    "bestTimeToVisit": "Morning",
+    "description": "Ancient temple known for its architecture and intricate carvings; dress code applies."
+  },
+  {
+    "attractionId": "A023",
+    "name": "Kovalam Beach",
+    "city": "Trivandrum",
+    "category": "Beach",
+    "timeRequiredHours": 3,
+    "ticketPrice": 0,
+    "bestTimeToVisit": "Afternoon",
+    "description": "Popular crescent-shaped beach known for shallow waters and leisure activities."
+  },
+  {
+    "attractionId": "A024",
+    "name": "City Palace",
+    "city": "Udaipur",
+    "category": "Historic",
+    "timeRequiredHours": 2,
+    "ticketPrice": 4,
+    "bestTimeToVisit": "Morning",
+    "description": "Grand palace complex overlooking Lake Pichola with museums and courtyards."
+  },
+  {
+    "attractionId": "A025",
+    "name": "Lake Pichola Boat Ride",
+    "city": "Udaipur",
+    "category": "Boat Ride",
+    "timeRequiredHours": 1,
+    "ticketPrice": 6,
+    "bestTimeToVisit": "Evening",
+    "description": "Scenic boat tour around Lake Pichola showcasing palaces and ghats."
+  },
+  {
+    "attractionId": "A026",
+    "name": "Kashi Vishwanath Temple",
+    "city": "Varanasi",
+    "category": "Religious",
+    "timeRequiredHours": 1,
+    "ticketPrice": 0,
+    "bestTimeToVisit": "Early Morning",
+    "description": "One of the holiest Hindu temples, located near the ghats of the Ganges."
+  },
+  {
+    "attractionId": "A027",
+    "name": "Ganga Aarti at Dashashwamedh Ghat",
+    "city": "Varanasi",
+    "category": "Religious",
+    "timeRequiredHours": 1,
+    "ticketPrice": 0,
+    "bestTimeToVisit": "Evening",
+    "description": "Iconic evening ritual on the Ganges with priests, lamps and devotional music."
+  },
+  {
+    "attractionId": "A028",
+    "name": "Dal Lake Shikara Ride",
+    "city": "Srinagar",
+    "category": "Boat Ride",
+    "timeRequiredHours": 2,
+    "ticketPrice": 8,
+    "bestTimeToVisit": "Morning",
+    "description": "Peaceful shikara rides across Dal Lake with views of houseboats and mountains."
+  },
+  {
+    "attractionId": "A029",
+    "name": "Gulmarg Gondola",
+    "city": "Srinagar",
+    "category": "Nature",
+    "timeRequiredHours": 3,
+    "ticketPrice": 10,
+    "bestTimeToVisit": "Winter",
+    "description": "Cable car ride to alpine meadows — great for snow and mountain vistas."
+  },
+  {
+    "attractionId": "A030",
+    "name": "Jantar Mantar",
+    "city": "Jaipur",
+    "category": "Historic",
+    "timeRequiredHours": 1,
+    "ticketPrice": 2,
+    "bestTimeToVisit": "Morning",
+    "description": "Astronomical observatory with large stone instruments dating to the 18th century."
+  },
+  {
+    "attractionId": "A031",
+    "name": "Colva Beach",
+    "city": "Goa",
+    "category": "Beach",
+    "timeRequiredHours": 3,
+    "ticketPrice": 0,
+    "bestTimeToVisit": "Afternoon",
+    "description": "Long sandy beach with family-friendly shacks and local vendors."
+  },
+  {
+    "attractionId": "A032",
+    "name": "Mapusa Market",
+    "city": "Goa",
+    "category": "Market",
+    "timeRequiredHours": 1.5,
+    "ticketPrice": 0,
+    "bestTimeToVisit": "Morning",
+    "description": "Bustling local market famous for spices, handicrafts and fresh produce."
+  },
+  {
+    "attractionId": "A033",
+    "name": "ISKCON Temple",
+    "city": "Bangalore",
+    "category": "Religious",
+    "timeRequiredHours": 1.5,
+    "ticketPrice": 0,
+    "bestTimeToVisit": "Morning",
+    "description": "Large temple complex with peaceful atmosphere, bhajans and vegetarian food."
+  },
+  {
+    "attractionId": "A034",
+    "name": "Vidhana Soudha (Exterior)",
+    "city": "Bangalore",
+    "category": "Landmark",
+    "timeRequiredHours": 0.5,
+    "ticketPrice": 0,
+    "bestTimeToVisit": "Afternoon",
+    "description": "Imposing legislative building known for its Neo-Dravidian architecture (view from outside)."
+  },
+  {
+    "attractionId": "A035",
+    "name": "Chapora Fort",
+    "city": "Goa",
+    "category": "Historic",
+    "timeRequiredHours": 1.5,
+    "ticketPrice": 0,
+    "bestTimeToVisit": "Sunset",
+    "description": "Scenic fort offering panoramic views over the coastline and Vagator beach."
+  },
+  {
+    "attractionId": "A036",
+    "name": "Dolphin Spotting Cruise",
+    "city": "Goa",
+    "category": "Nature",
+    "timeRequiredHours": 2.5,
+    "ticketPrice": 12,
+    "bestTimeToVisit": "Morning",
+    "description": "Boat trips from various beaches to spot dolphins and coastal wildlife."
+  },
+  {
+    "attractionId": "A037",
+    "name": "Juhu Beach",
+    "city": "Mumbai",
+    "category": "Beach",
+    "timeRequiredHours": 2,
+    "ticketPrice": 0,
+    "bestTimeToVisit": "Evening",
+    "description": "Famous city beach with street food stalls and views of the Arabian Sea."
+  },
+  {
+    "attractionId": "A038",
+    "name": "Siddhivinayak Temple",
+    "city": "Mumbai",
+    "category": "Religious",
+    "timeRequiredHours": 1,
+    "ticketPrice": 0,
+    "bestTimeToVisit": "Morning",
+    "description": "Popular Hindu temple dedicated to Lord Ganesha with daily devotees."
+  },
+  {
+    "attractionId": "A039",
+    "name": "Hampi Ruins",
+    "city": "Udaipur",
+    "category": "Historic",
+    "timeRequiredHours": 4,
+    "ticketPrice": 5,
+    "bestTimeToVisit": "Morning",
+    "description": "Ancient temple ruins and boulder-strewn landscapes (note: Hampi is historically separate; included here for varied demo)."
+  },
+  {
+    "attractionId": "A040",
+    "name": "Varanasi Boat Sunrise",
+    "city": "Varanasi",
+    "category": "Experience",
+    "timeRequiredHours": 2,
+    "ticketPrice": 4,
+    "bestTimeToVisit": "Early Morning",
+    "description": "Sunrise boat cruise along the Ganges and the ghats — spiritual and photographic experience."
+  }
+]

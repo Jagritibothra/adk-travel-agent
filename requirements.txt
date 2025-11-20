@@ -1,0 +1,9 @@
+# requirements.txt
+google-adk>=0.1.0
+pydantic
+streamlit
+pandas
+fastapi       # optional: to expose agents as HTTP tools
+uvicorn       # optional: to run fastapi in dev
+fpdf2         # for PDF export
+python-dotenv # load env vars if needed

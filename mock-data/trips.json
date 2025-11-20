@@ -1,0 +1,206 @@
+[
+  {
+    "userId": "U001",
+    "tripId": "T1001",
+    "destination": "Goa",
+    "startDate": "2024-03-11",
+    "endDate": "2024-03-15",
+    "hotel": "Calangute Beach Resort",
+    "favouriteAttractions": [
+      "Water Sports",
+      "Sunset Cruise"
+    ],
+    "budget": 32000
+  },
+  {
+    "userId": "U001",
+    "tripId": "T1002",
+    "destination": "Jaipur",
+    "startDate": "2023-12-20",
+    "endDate": "2023-12-24",
+    "hotel": "Amber Heritage Palace",
+    "favouriteAttractions": [
+      "City Palace",
+      "Amber Fort"
+    ],
+    "budget": 28000
+  },
+  {
+    "userId": "U002",
+    "tripId": "T2001",
+    "destination": "Singapore",
+    "startDate": "2024-06-02",
+    "endDate": "2024-06-08",
+    "hotel": "Marina Bay Grand",
+    "favouriteAttractions": [
+      "Universal Studios",
+      "Night Safari"
+    ],
+    "budget": 125000
+  },
+  {
+    "userId": "U003",
+    "tripId": "T3001",
+    "destination": "Manali",
+    "startDate": "2023-09-12",
+    "endDate": "2023-09-17",
+    "hotel": "Snow Crest Chalet",
+    "favouriteAttractions": [
+      "Solang Valley",
+      "Paragliding"
+    ],
+    "budget": 41000
+  },
+  {
+    "userId": "U004",
+    "itinerary": {
+      "attractions": [
+        {
+          "date": "2025-04-02",
+          "city": "Bangalore",
+          "name": "Lalbagh Botanical Garden"
+        },
+        {
+          "date": "2025-04-03",
+          "city": "Bangalore",
+          "name": "Bannerghatta Biological Park"
+        },
+        {
+          "city": "Bangalore",
+          "name": "Ulsoor Lake",
+          "date": "2025-04-04"
+        },
+        {
+          "city": "Bangalore",
+          "date": "2025-04-05",
+          "name": "Nandi Hills"
+        }
+      ],
+      "flight": {
+        "city2": "Bangalore",
+        "travelType": "one-way",
+        "date": "2025-04-02",
+        "city1": "Delhi"
+      },
+      "hotel": {
+        "date": "2025-04-02",
+        "city": "Bangalore",
+        "budget": 5000
+      }
+    },
+    "meta": {}
+  },
+  {
+    "userId": "Jagriti",
+    "itinerary": {
+      "attractions": [
+        "Lalbagh Botanical Garden",
+        "Cubbon Park",
+        "Bannerghatta Biological Park",
+        "Nandi Hills"
+      ],
+      "flight": "One flight from Delhi to Bangalore on April 2, 2025.",
+      "hotel": "Blue Horizon Inn, Bangalore. Price: 3500 per night. Amenities: WiFi, Breakfast, Gym, Parking."
+    },
+    "meta": {}
+  },
+  {
+    "userId": "U004",
+    "itinerary": {
+      "flight": {
+        "city2": "Bangalore",
+        "travelType": "one-way",
+        "date": "2025-04-02",
+        "city1": "Delhi"
+      },
+      "hotel": {
+        "date": "2025-04-02",
+        "nightly_budget": 5000,
+        "city": "Bangalore"
+      },
+      "attractions": [
+        {
+          "city": "Bangalore",
+          "date": "2025-04-02",
+          "name": "Lalbagh Botanical Garden"
+        },
+        {
+          "city": "Bangalore",
+          "date": "2025-04-03",
+          "name": "Cubbon Park"
+        },
+        {
+          "date": "2025-04-04",
+          "city": "Bangalore",
+          "name": "Bannerghatta Biological Park"
+        },
+        {
+          "city": "Bangalore",
+          "date": "2025-04-05",
+          "name": "Nandi Hills"
+        }
+      ]
+    },
+    "meta": {
+      "name": "Jagriti",
+      "email": "jagritibothra1998@gmail.com"
+    }
+  },
+  {
+    "userId": "U004",
+    "itinerary": {
+      "attractions": null,
+      "flight": null,
+      "hotel": null
+    },
+    "meta": {}
+  },
+  {
+    "userId": "Jagriti",
+    "itinerary": {
+      "attractions": [
+        {
+          "date": "2025-04-03",
+          "name": "Lalbagh Botanical Garden",
+          "city": "Bangalore"
+        },
+        {
+          "date": "2025-04-04",
+          "city": "Bangalore",
+          "name": "Cubbon Park"
+        },
+        {
+          "name": "Bannerghatta Biological Park",
+          "date": "2025-04-05",
+          "city": "Bangalore"
+        }
+      ],
+      "flight": {
+        "departureDate": "2025-04-02",
+        "durationMinutes": 150,
+        "destination": "BLR",
+        "departureTime": "18:20",
+        "sourceCity": "Delhi",
+        "class": "Economy",
+        "airline": "Vistara",
+        "arrivalDate": "2025-04-02",
+        "destinationCity": "Bangalore",
+        "stops": 0,
+        "price": 5290,
+        "flightId": "F003",
+        "arrivalTime": "20:50",
+        "source": "DEL"
+      },
+      "hotel": {
+        "price": 4800,
+        "bookingDates": {
+          "checkIn": "2025-04-02",
+          "checkOut": "2025-04-06"
+        },
+        "description": "GreenLeaf Suites is a hotel in Bangalore with a rating of 4.5 stars.",
+        "name": "GreenLeaf Suites"
+      }
+    },
+    "meta": {}
+  }
+]

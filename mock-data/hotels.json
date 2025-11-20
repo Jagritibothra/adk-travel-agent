@@ -1,0 +1,352 @@
+[
+  {
+    "hotelId": "H001",
+    "name": "Blue Horizon Inn",
+    "city": "Bangalore",
+    "rating": 4.2,
+    "pricePerNight": 3500,
+    "amenities": ["WiFi", "Breakfast", "Gym", "Parking"],
+    "roomType": "Deluxe",
+    "distanceFromCenterKm": 3.1
+  },
+  {
+    "hotelId": "H002",
+    "name": "GreenLeaf Suites",
+    "city": "Bangalore",
+    "rating": 4.5,
+    "pricePerNight": 4800,
+    "amenities": ["WiFi", "Breakfast", "Pool", "Gym"],
+    "roomType": "Executive",
+    "distanceFromCenterKm": 2.0
+  },
+  {
+    "hotelId": "H003",
+    "name": "BudgetStay MG Road",
+    "city": "Bangalore",
+    "rating": 3.8,
+    "pricePerNight": 2100,
+    "amenities": ["WiFi", "Breakfast", "AC"],
+    "roomType": "Standard",
+    "distanceFromCenterKm": 1.8
+  },
+  {
+    "hotelId": "H004",
+    "name": "Chandigarh Comfort Lodge",
+    "city": "Chandigarh",
+    "rating": 4.1,
+    "pricePerNight": 3200,
+    "amenities": ["WiFi", "Breakfast", "Parking"],
+    "roomType": "Deluxe",
+    "distanceFromCenterKm": 2.6
+  },
+  {
+    "hotelId": "H005",
+    "name": "Rose Garden Residency",
+    "city": "Chandigarh",
+    "rating": 4.4,
+    "pricePerNight": 4200,
+    "amenities": ["WiFi", "Breakfast", "Gym", "Airport Shuttle"],
+    "roomType": "Executive",
+    "distanceFromCenterKm": 1.5
+  },
+  {
+    "hotelId": "H006",
+    "name": "Pocket Friendly Inn",
+    "city": "Chandigarh",
+    "rating": 3.7,
+    "pricePerNight": 1800,
+    "amenities": ["WiFi", "AC", "24hr Front Desk"],
+    "roomType": "Standard",
+    "distanceFromCenterKm": 3.8
+  },
+  {
+    "hotelId": "H007",
+    "name": "Marina View Residency",
+    "city": "Chennai",
+    "rating": 4.3,
+    "pricePerNight": 3900,
+    "amenities": ["WiFi", "Breakfast", "Beach Access", "Gym"],
+    "roomType": "Deluxe",
+    "distanceFromCenterKm": 2.9
+  },
+  {
+    "hotelId": "H008",
+    "name": "Cozy Chennai Lodge",
+    "city": "Chennai",
+    "rating": 3.9,
+    "pricePerNight": 2200,
+    "amenities": ["WiFi", "Breakfast", "AC"],
+    "roomType": "Standard",
+    "distanceFromCenterKm": 4.0
+  },
+  {
+    "hotelId": "H009",
+    "name": "Budget Bay Suites",
+    "city": "Chennai",
+    "rating": 4.0,
+    "pricePerNight": 2800,
+    "amenities": ["WiFi", "Breakfast", "Parking"],
+    "roomType": "Superior",
+    "distanceFromCenterKm": 3.3
+  },
+  {
+    "hotelId": "H010",
+    "name": "Goa Beachside Inn",
+    "city": "Goa",
+    "rating": 4.5,
+    "pricePerNight": 5200,
+    "amenities": ["Beachside", "WiFi", "Breakfast", "Pool"],
+    "roomType": "Deluxe",
+    "distanceFromCenterKm": 0.6
+  },
+  {
+    "hotelId": "H011",
+    "name": "Palms Budget Resort",
+    "city": "Goa",
+    "rating": 4.0,
+    "pricePerNight": 3100,
+    "amenities": ["WiFi", "Breakfast", "Shuttle"],
+    "roomType": "Standard",
+    "distanceFromCenterKm": 2.8
+  },
+  {
+    "hotelId": "H012",
+    "name": "Seaview Guest House",
+    "city": "Goa",
+    "rating": 3.8,
+    "pricePerNight": 1950,
+    "amenities": ["WiFi", "Breakfast", "Beach Access"],
+    "roomType": "Standard",
+    "distanceFromCenterKm": 1.9
+  },
+  {
+    "hotelId": "H013",
+    "name": "Hyderabad Central Hotel",
+    "city": "Hyderabad",
+    "rating": 4.2,
+    "pricePerNight": 3600,
+    "amenities": ["WiFi", "Breakfast", "Gym", "Parking"],
+    "roomType": "Deluxe",
+    "distanceFromCenterKm": 3.2
+  },
+  {
+    "hotelId": "H014",
+    "name": "Pearl City Lodge",
+    "city": "Hyderabad",
+    "rating": 3.9,
+    "pricePerNight": 2400,
+    "amenities": ["WiFi", "Breakfast", "AC"],
+    "roomType": "Standard",
+    "distanceFromCenterKm": 2.5
+  },
+  {
+    "hotelId": "H015",
+    "name": "Budget Stay Hitech",
+    "city": "Hyderabad",
+    "rating": 3.7,
+    "pricePerNight": 1850,
+    "amenities": ["WiFi", "24hr Front Desk", "AC"],
+    "roomType": "Standard",
+    "distanceFromCenterKm": 5.0
+  },
+  {
+    "hotelId": "H016",
+    "name": "PinkCity Comfort Hotel",
+    "city": "Jaipur",
+    "rating": 4.1,
+    "pricePerNight": 3300,
+    "amenities": ["WiFi", "Breakfast", "Parking"],
+    "roomType": "Deluxe",
+    "distanceFromCenterKm": 2.2
+  },
+  {
+    "hotelId": "H017",
+    "name": "Heritage Stay Jaipur",
+    "city": "Jaipur",
+    "rating": 4.4,
+    "pricePerNight": 5200,
+    "amenities": ["WiFi", "Breakfast", "Heritage Tours", "Gym"],
+    "roomType": "Executive",
+    "distanceFromCenterKm": 1.4
+  },
+  {
+    "hotelId": "H018",
+    "name": "Budget Inn Johri",
+    "city": "Jaipur",
+    "rating": 3.6,
+    "pricePerNight": 1750,
+    "amenities": ["WiFi", "AC", "24hr Front Desk"],
+    "roomType": "Standard",
+    "distanceFromCenterKm": 3.6
+  },
+  {
+    "hotelId": "H019",
+    "name": "Kochi Backwater Hotel",
+    "city": "Kochi",
+    "rating": 4.3,
+    "pricePerNight": 4100,
+    "amenities": ["WiFi", "Breakfast", "Backwater View", "Shuttle"],
+    "roomType": "Deluxe",
+    "distanceFromCenterKm": 2.0
+  },
+  {
+    "hotelId": "H020",
+    "name": "Fort Kochi Guest House",
+    "city": "Kochi",
+    "rating": 3.9,
+    "pricePerNight": 2300,
+    "amenities": ["WiFi", "Breakfast", "Historic Tours"],
+    "roomType": "Standard",
+    "distanceFromCenterKm": 1.8
+  },
+  {
+    "hotelId": "H021",
+    "name": "Budget Harbor Inn",
+    "city": "Kochi",
+    "rating": 3.7,
+    "pricePerNight": 1700,
+    "amenities": ["WiFi", "AC", "Parking"],
+    "roomType": "Standard",
+    "distanceFromCenterKm": 3.9
+  },
+  {
+    "hotelId": "H022",
+    "name": "Colaba Stay",
+    "city": "Mumbai",
+    "rating": 4.4,
+    "pricePerNight": 5200,
+    "amenities": ["WiFi", "Breakfast", "Gym", "Airport Shuttle"],
+    "roomType": "Executive",
+    "distanceFromCenterKm": 1.9
+  },
+  {
+    "hotelId": "H023",
+    "name": "Gateway Budget Hotel",
+    "city": "Mumbai",
+    "rating": 3.8,
+    "pricePerNight": 2600,
+    "amenities": ["WiFi", "Breakfast", "AC"],
+    "roomType": "Standard",
+    "distanceFromCenterKm": 3.5
+  },
+  {
+    "hotelId": "H024",
+    "name": "Marine Drive Residency",
+    "city": "Mumbai",
+    "rating": 4.1,
+    "pricePerNight": 4100,
+    "amenities": ["WiFi", "Breakfast", "Sea View"],
+    "roomType": "Deluxe",
+    "distanceFromCenterKm": 2.2
+  },
+  {
+    "hotelId": "H025",
+    "name": "Pune Central Lodge",
+    "city": "Pune",
+    "rating": 4.0,
+    "pricePerNight": 3000,
+    "amenities": ["WiFi", "Breakfast", "Gym"],
+    "roomType": "Deluxe",
+    "distanceFromCenterKm": 2.8
+  },
+  {
+    "hotelId": "H026",
+    "name": "Budget Stay Koregaon",
+    "city": "Pune",
+    "rating": 3.6,
+    "pricePerNight": 1650,
+    "amenities": ["WiFi", "AC", "24hr Front Desk"],
+    "roomType": "Standard",
+    "distanceFromCenterKm": 3.7
+  },
+  {
+    "hotelId": "H027",
+    "name": "Comfort Suites Shivaji",
+    "city": "Pune",
+    "rating": 4.3,
+    "pricePerNight": 3800,
+    "amenities": ["WiFi", "Breakfast", "Pool", "Gym"],
+    "roomType": "Executive",
+    "distanceFromCenterKm": 1.9
+  },
+  {
+    "hotelId": "H028",
+    "name": "Trivandrum Beach Inn",
+    "city": "Trivandrum",
+    "rating": 4.0,
+    "pricePerNight": 2900,
+    "amenities": ["WiFi", "Breakfast", "Beach Access"],
+    "roomType": "Deluxe",
+    "distanceFromCenterKm": 2.5
+  },
+  {
+    "hotelId": "H029",
+    "name": "Capital Comfort Lodge",
+    "city": "Trivandrum",
+    "rating": 3.8,
+    "pricePerNight": 2100,
+    "amenities": ["WiFi", "Breakfast", "Parking"],
+    "roomType": "Standard",
+    "distanceFromCenterKm": 3.1
+  },
+  {
+    "hotelId": "H030",
+    "name": "Budget Stay Thampanoor",
+    "city": "Trivandrum",
+    "rating": 3.5,
+    "pricePerNight": 1500,
+    "amenities": ["WiFi", "AC", "24hr Front Desk"],
+    "roomType": "Standard",
+    "distanceFromCenterKm": 1.7
+  },
+  {
+    "hotelId": "H031",
+    "name": "Udaipur Lake Hotel",
+    "city": "Udaipur",
+    "rating": 4.5,
+    "pricePerNight": 4600,
+    "amenities": ["WiFi", "Breakfast", "Lake View", "Heritage Tours"],
+    "roomType": "Executive",
+    "distanceFromCenterKm": 0.9
+  },
+  {
+    "hotelId": "H032",
+    "name": "City Palace Residency",
+    "city": "Udaipur",
+    "rating": 4.1,
+    "pricePerNight": 3400,
+    "amenities": ["WiFi", "Breakfast", "Parking"],
+    "roomType": "Deluxe",
+    "distanceFromCenterKm": 2.3
+  },
+  {
+    "hotelId": "H033",
+    "name": "Budget Stay Udaipur",
+    "city": "Udaipur",
+    "rating": 3.6,
+    "pricePerNight": 1600,
+    "amenities": ["WiFi", "AC", "24hr Front Desk"],
+    "roomType": "Standard",
+    "distanceFromCenterKm": 3.9
+  },
+  {
+    "hotelId": "H034",
+    "name": "Varanasi Riverside Inn",
+    "city": "Varanasi",
+    "rating": 4.2,
+    "pricePerNight": 3700,
+    "amenities": ["WiFi", "Breakfast", "River View", "Heritage Tours"],
+    "roomType": "Deluxe",
+    "distanceFromCenterKm": 1.2
+  },
+  {
+    "hotelId": "H035",
+    "name": "Ganges Budget Lodge",
+    "city": "Varanasi",
+    "rating": 3.7,
+    "pricePerNight": 1700,
+    "amenities": ["WiFi", "AC", "Breakfast"],
+    "roomType": "Standard",
+    "distanceFromCenterKm": 2.8
+  }
+]
